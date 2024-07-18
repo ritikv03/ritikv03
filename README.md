@@ -1,4 +1,4 @@
-![logo](https://github.com/ritikv03/ritik_profile/blob/main/banner.gif)
+![logo](https://github.com/ritikv03/ritikv03/blob/main/banner.gif)
 
 <h1 align="center">Hi 👋, I'm Ritik Verma</h1>
 <h3 align="center">A passionate full-stack and UI/UX developer from India</h3>
